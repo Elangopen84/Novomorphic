@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-XOR and AND gares are connected to input a and b.
+XOR and AND gates are connected to input a and b.
 
 ## How to test
 
